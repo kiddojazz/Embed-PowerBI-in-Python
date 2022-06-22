@@ -25,4 +25,4 @@ from powerbiclient import Report
 
 The Image below will explain better on how to go about it.
 
-![alt text](https://drive.google.com/uc?id=1Sxz6WKLSCiTl8nxny82Eba0GwITVI0mm)
+![alt text](https://drive.google.com/uc?id=1Sxz6WKLSCiTl8nxny82Eba0GwITVI0mm/Embed-Python-to-PowerBI-Gif.gif)
